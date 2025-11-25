@@ -16,4 +16,4 @@ Flex
 
 - Role - Frontend
 
-- How to reach me : with my [linkedin]([https://www.linkedin.com/in/roya-nasiri-81466123a])
+- How to reach me : with my [linkedin]https://www.linkedin.com/in/roya-nasiri-81466123a)
